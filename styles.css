@@ -1,0 +1,78 @@
+
+
+#vertical_line{
+    height: 70px;
+    border-right: 1px solid rgb(210, 210, 210);
+}
+
+
+#search_bar{
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    width: 40%;
+    background-color: #f8f8f8;
+    padding: 0px 10px;
+}
+
+#search_bar>input{
+    width: 95%;
+    border: none;
+    background-color: transparent;
+    height: 45px;
+
+}
+
+#categories{
+    width: 85%;
+    margin: auto;
+    
+}
+
+
+ 
+.scrollable_div{
+    width: 85%;
+    margin: auto;
+    overflow: hidden;
+}
+
+
+.list{
+    overflow-x: scroll;
+    text-wrap: nowrap;
+}
+
+
+.category_section{
+    width: 85%;
+    margin: auto;
+    margin-top: 30px;
+}
+
+
+.my_card{
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
